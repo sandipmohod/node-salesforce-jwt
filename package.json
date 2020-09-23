@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "jsonwebtoken": "8.5.1",
-    "request":" 2.62.0"
+    "request":"git+ssh://git@github.com:sandipmohod/request.git"
   },
   "repository": {
     "type": "git",
